@@ -2,7 +2,7 @@
 Bedrock Based Hacked Client, lmao.
 
 # Included
-- Nothing so far
+- Item Switch
 - *some other shit*
 
 # Upcoming
