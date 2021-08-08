@@ -1,5 +1,5 @@
 # No-Comment
-Bedrock Based Hacked Client, lmao.
+Bedrock Based Hacked Client.
 
 # Included
 - Item Switch
