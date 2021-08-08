@@ -1,4 +1,10 @@
 # No-Comment
-Based-Hacked Client lmfao
+Bedrock Based Hacked Client, lmao.
 
-# Included.
+# Included
+- Nothing so far
+- *some other shit*
+
+# Upcoming
+- quite a lot of shit
+*yeah yeah*
