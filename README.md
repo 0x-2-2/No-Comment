@@ -7,4 +7,6 @@ Bedrock Based Hacked Client.
 
 # Upcoming
 - quite a lot of shit
-*yeah yeah*
+
+# Developing
+- **Advanced Crystal Aura**
