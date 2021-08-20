@@ -9,4 +9,26 @@
     health function
  
  
-    #include 1.4.0
+    # include 1.4.0
+     client refresh ()
+     
+     health boost () // health function upd name 
+     
+     crystal Aura 2.0 // Advanced // glitches out time to time,
+     cant do shit about it for now.
+      // added custom crystal range 
+     
+     xp hack () // summons xp_bottles, 
+      // can have custom amount from xpamount var
+     
+     enchant hack() // .eh
+      1.5.0 should have custom repeat amount for the enchant
+      hack // if I forget dont shit me
+     
+     item switch() // OP asf, switches between to items, at slot num / # 8
+     default items, golden apple and enchanted crystal
+     
+     autogap() // not really auto, just use the item, dont have to fully eat.
+      // will still gave the same effects as a egap
+    
+    # include 1.5.0
