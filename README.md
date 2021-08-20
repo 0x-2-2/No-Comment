@@ -1,12 +1,5 @@
-# No-Comment
-Bedrock Based Hacked Client.
+# in-develop
 
-# Included
-- Item Switch
-- *some other shit*
-
-# Upcoming
-- quite a lot of shit
-
-# In-Develop
-- **Advanced Crystal Aura**
+You, dont have to know shit yet, im still updating this read me, and adding the commands to client
+atleast we keep old versions 1.2.0 - ?.?.?; nobody knows when the last client upd. will be, probably in like 9
+months,
