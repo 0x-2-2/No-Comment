@@ -34,11 +34,7 @@
         
             patches
                 removed shitty while loop for crystalAura // loop was fr fucking useless
-                
-       Future-Updates
-                (Have thoughts on updating crystal Aura by a big difference soon, maybe by 1.7, only time will tell)
-                // crystal Aura is kinda fucked due to a arrow bug/glitch, May need to re-work the whole shit
-                
+            
 // 1.6.0
     New Modules
         added clearPlayerInv // clears your own inventory
