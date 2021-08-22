@@ -1,7 +1,7 @@
 // 1.2.0
     Modules
         Crystal Aura // glitchy
-        health function // adds extra health (No thoughts of updating this hack soon)
+        health function // 
 
 
 
