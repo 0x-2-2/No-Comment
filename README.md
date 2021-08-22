@@ -11,3 +11,4 @@ I'm gonna add like atleast 2-4 new hacks, till I release a new upd.
 - [] renovate Crystal Aura
 - [] add Flight Hack
 - [] add Bow Aimbot // and add anti-bow-mobs
+- [] add c hack
