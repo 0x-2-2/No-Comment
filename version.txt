@@ -1,12 +1,11 @@
 # include 1.2.0
-  crystal Aura (glitchy)
-  health function
- 
- 
-  # include 1.3.0
-    client refresh (restarts client)
-    crystal Aura (less glitchy, but still counts.)
+    crystal Aura (glitchy)
     health function
+    
+  # include 1.3.0
+      client refresh (restarts client)
+      crystal Aura (less glitchy, but still counts.)
+      health function
  
  
     # include 1.4.0
@@ -32,3 +31,16 @@
       // will still gave the same effects as a egap
     
     # include 1.5.0
+    
+    New Modules;
+      pvploadout()
+      superweapons()
+      helpcommand()
+      playeronRunEventAnnouncer()
+      playeronWalkEventAnnouncer()
+      Crystal Aura 2.0.1
+    Patches; 
+      removed shitty while loop for crystalAura // loop was fr fucking useless
+    
+    Notes; 
+      Probably will try to update Crystal Aura, by a lot for 1.6.0 // its kinda shitty rn due to a arrow glitch.
