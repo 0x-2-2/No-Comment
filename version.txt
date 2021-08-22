@@ -1,46 +1,40 @@
-# include 1.2.0
-    crystal Aura (glitchy)
-    health function
-    
-  # include 1.3.0
-      client refresh (restarts client)
-      crystal Aura (less glitchy, but still counts.)
-      health function
+// 1.2.0
+    Modules
+        Crystal Aura // glitchy
+        health function // adds extra health (No thoughts of updating this hack soon)
+
+
+
+
+// 1.3.0
+    New Modules
+        added client refresher // basic client restart
+
+
+
+
+// 1.4.0
+    New Modules 
+        added forcexp // summons custom amount of xp bottles
+        added enchant hack // instant enchants on item in main hand
+        added itemswitch // switches between egap and ecry (will get an upd. in the future, Don't know when, buts it will come)
+        added autoEgap // just use egap, instantly eats it, gives same benefit as a reg egap
+        
+        
+        
  
- 
-    # include 1.4.0
-     client refresh ()
-     
-     health boost () // health function upd name 
-     
-     crystal Aura 2.0 // Advanced // glitches out time to time,
-     cant do shit about it for now.
-      // added custom crystal range 
-     
-     xp hack () // summons xp_bottles, 
-      // can have custom amount from xpamount var
-     
-     enchant hack() // .eh
-      1.5.0 should have custom repeat amount for the enchant
-      hack // if I forget dont shit me
-     
-     item switch() // OP asf, switches between to items, at slot num / # 8
-     default items, golden apple and enchanted crystal
-     
-     autogap() // not really auto, just use the item, dont have to fully eat.
-      // will still gave the same effects as a egap
-    
-    # include 1.5.0
-    
-    New Modules;
-      pvploadout()
-      superweapons()
-      helpcommand()
-      playeronRunEventAnnouncer()
-      playeronWalkEventAnnouncer()
-      Crystal Aura 2.0.1
-    Patches; 
-      removed shitty while loop for crystalAura // loop was fr fucking useless
-    
-    Notes; 
-      Probably will try to update Crystal Aura, by a lot for 1.6.0 // its kinda shitty rn due to a arrow glitch.
+// 1.5.0
+    New Modules
+        added pvploadout // gives an inv full of pvp items. (Items dont come enchanted, those will have to be done by hand)
+        added superweapons // unbreakables weapons thats it, works with a grindstone
+        added helpcommands // tells all commands, and command execution phrases
+        added playeronRunEventAnnouncer // Displays how much feet you've ran
+        added playeronWalkEventAnnouncer // Displays how much feet you've walked
+        updated Crystal Aura 2.0 -> 2.0.1
+        
+            patches
+                removed shitty while loop for crystalAura // loop was fr fucking useles
+       Future-Updates
+                (Have thoughts on updating crystal Aura by a big difference soon, maybe by 1.7, only time will tell)
+                // crystal Aura is kinda fucked due to a arrow bug/glitch, May need to re-work the whole shit
+                which is annoying as fuck.
