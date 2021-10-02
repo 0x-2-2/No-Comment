@@ -8,7 +8,7 @@ I'm gonna add like atleast 2-4 new hacks, till I release a new upd.
 > This requirement may change in the future, currently its 2-4
 
 # what I'm working on, and whats finished
-- [] renovate Crystal Aura
-- [] add Flight Hack
-- [] add Bow Aimbot // and add anti-bow-mobs
-- [] add c hack
+- [x] renovate Crystal Aura
+- [x] add Flight Hack
+- [x] add Bow Aimbot // and add anti-bow-mobs
+
